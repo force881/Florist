@@ -199,11 +199,4 @@ if len(sorting_bouquet) != 0:
             break
         else:
             print('Ну желание клиента закон.')
-            break 
-    
-
-
-
-
-    
-
+            break
